@@ -1,5 +1,15 @@
+*{
+    background: #000000;
+    color: rgb(255, 255, 255);
+}
 div{
     text-align: center;
     justify-content: center;
     margin-top: 4%;
+}
+
+/* In your CSS file */
+.box {
+  border: 1px solid gray;
+  padding: 16px;
 }

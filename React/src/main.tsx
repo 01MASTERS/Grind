@@ -17,7 +17,7 @@ createRoot(rootElement).render(
   <>
    {/* <App /> */}
    <Parent/>
-   <Child/>
+   {/* <Child/> */}
   
   </>
   // </StrictMode>,
